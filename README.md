@@ -1,8 +1,8 @@
-# 💼 Attrition Predictor 9000™
+# 💼 Attrition Predictor
 
 > *“Because your employees might quit before you predict it.”*
 
-Welcome to **Attrition Predictor 9000™** — a machine learning-powered HR assistant that can smell resignation letters before they’re even typed. 🚪➡️📤
+Welcome to **Attrition Predictor** — a machine learning-powered HR assistant that can smell resignation letters before they’re even typed. 🚪➡️📤
 
 ## 🚀 What’s Inside?
 
