@@ -6,10 +6,10 @@ Welcome to **Attrition Predictor** — a machine learning-powered HR assistant t
 
 ## 🚀 What’s Inside?
 
-🔍 **Data Sleuthing** – We’ve explored and cleaned the IBM HR dataset so you don’t have to.
+🔍 **Data Sleuthing** – We’ve explored and cleaned the HR dataset so you don’t have to.
 🧠 **ML Wizardry** – Smart models that predict who’s about to leave the building.
-🌐 **Web Magic** – A sleek Flask app to test your attrition fears in real-time.
-🛠️ **Tools of the Trade** – Python, pandas, scikit-learn, joblib, and sarcasm.
+🌐 **Web Magic** – A sleek Streanlit app to test your attrition fears in real-time.
+🛠️ **Tools of the Trade** – Python, pandas, scikit-learn, joblib.
 
 ## 🛸 Run It in 3 Steps
 
